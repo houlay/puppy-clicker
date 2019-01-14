@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "imgPath": {"backgroundImage": "url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwRNctlyMeGoyKB9bRYaS-xU4WyIqLCX3SI2AatTZggG6cxSHZqA')"},
+        "clicked": 0
+    },
+    {
+        "id": 2,
+        "imgPath": {"backgroundImage": "url('https://i.pinimg.com/originals/39/6f/14/396f14bd9c68652906500047d677356c.jpg')"},
+        "clicked": 0
+    },
+    {
+        "id": 3,
+        "imgPath": {"backgroundImage": "url('https://groomarts.com/assets/images/_listItem/cute-puppy-1.jpg')"},
+        "clicked": 0
+    },
+    {
+        "id": 4,
+        "imgPath": {"backgroundImage": "url('https://cdn2-www.dogtime.com/assets/uploads/2015/05/file_21702_impossibly-cute-puppy-30.jpg')"},
+        "clicked": 0
+    },
+    {
+        "id": 5,
+        "imgPath": {"backgroundImage": "url('https://i.pinimg.com/originals/95/2a/04/952a04ea85a8d1b0134516c52198745e.jpg')"},
+        "clicked": 0
+    },
+    {
+        "id": 6,
+        "imgPath": {"backgroundImage": "url('https://cdn1-www.dogtime.com/assets/uploads/gallery/national-puppy-day/national-puppy-day-3.jpg')"},
+        "clicked": 0
+    },
+    {
+        "id": 7,
+        "imgPath": {"backgroundImage": "url('https://pbs.twimg.com/profile_images/928213517076803584/AMjTNO3t.jpg')"},
+        "clicked": 0
+    },
+    {
+        "id": 8,
+        "imgPath": {"backgroundImage": "url('http://www.zarias.com/wp-content/uploads/2015/12/61-cute-puppies.jpg')"},
+        "clicked": 0
+    },
+    {
+        "id": 9,
+        "imgPath": {"backgroundImage": "url('http://images6.fanpop.com/image/photos/41500000/adorable-puppies-cute-puppies-41538743-590-393.jpg')"},
+        "clicked": 0
+    },
+    {
+        "id": 10,
+        "imgPath": {"backgroundImage": "url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpxTPTZOWYDJ9qvdZGJm-vzc7y0HUqP9fv2fp_BomOH-Mk4S0-kA')"},
+        "clicked": 0
+    },
+    {
+        "id": 11,
+        "imgPath": {"backgroundImage": "url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkD5GhWhLnjAzSMs1T8irc0y6Tr6IKxHudRfLJK3b51P67j7WyYA')"},
+        "clicked": 0
+    },
+    {
+        "id": 12,
+        "imgPath": {"backgroundImage": "url('https://media.myfoxmemphiscom.cmgdigital.com/photo/2016/03/22/sleepingpuppy_1458691237031_3320353_ver1.0_640_360.jpg')"},
+        "clicked": 0
+    }
+]
