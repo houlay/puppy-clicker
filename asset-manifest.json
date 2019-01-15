@@ -1,13 +1,13 @@
 {
-  "main.css": "/puppy-clicker/static/css/main.c9f96211.chunk.css",
-  "main.js": "/puppy-clicker/static/js/main.c96cb7a6.chunk.js",
-  "main.js.map": "/puppy-clicker/static/js/main.c96cb7a6.chunk.js.map",
-  "static/js/1.fa92c112.chunk.js": "/puppy-clicker/static/js/1.fa92c112.chunk.js",
-  "static/js/1.fa92c112.chunk.js.map": "/puppy-clicker/static/js/1.fa92c112.chunk.js.map",
+  "main.css": "/puppy-clicker/static/css/main.50cfe3c6.chunk.css",
+  "main.js": "/puppy-clicker/static/js/main.a8801f91.chunk.js",
+  "main.js.map": "/puppy-clicker/static/js/main.a8801f91.chunk.js.map",
+  "static/js/1.e803c98d.chunk.js": "/puppy-clicker/static/js/1.e803c98d.chunk.js",
+  "static/js/1.e803c98d.chunk.js.map": "/puppy-clicker/static/js/1.e803c98d.chunk.js.map",
   "runtime~main.js": "/puppy-clicker/static/js/runtime~main.627b0588.js",
   "runtime~main.js.map": "/puppy-clicker/static/js/runtime~main.627b0588.js.map",
-  "static/css/main.c9f96211.chunk.css.map": "/puppy-clicker/static/css/main.c9f96211.chunk.css.map",
+  "static/css/main.50cfe3c6.chunk.css.map": "/puppy-clicker/static/css/main.50cfe3c6.chunk.css.map",
   "index.html": "/puppy-clicker/index.html",
-  "precache-manifest.d52473d8af1fc6d799bc714c173bd247.js": "/puppy-clicker/precache-manifest.d52473d8af1fc6d799bc714c173bd247.js",
+  "precache-manifest.35bc4d42de3ea206a30edfc10d1cc5de.js": "/puppy-clicker/precache-manifest.35bc4d42de3ea206a30edfc10d1cc5de.js",
   "service-worker.js": "/puppy-clicker/service-worker.js"
 }
