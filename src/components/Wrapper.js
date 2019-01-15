@@ -7,7 +7,9 @@ var style = {
     padding: "20px",
     justifyContent: "space-around",
     alignContent: "flex-start",
-    overflow: "auto"
+    overflow: "auto",
+    maxWidth: "1065px",
+    margin: "auto"
 }
 
 function Wrapper(props) {
